@@ -1,0 +1,586 @@
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/WyCo.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/WyCo.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/obj/Debug/WyCo.csprojResolveAssemblyReference.cache
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/obj/Debug/WyCo.csproj.CoreCompileInputs.cache
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/obj/Debug/WyCo.App.xaml.g.cs
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.MasterPage.xaml.g.cs
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.MenuPage.xaml.g.cs
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.UserPage.xaml.g.cs
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/obj/Debug/WyCo.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/obj/Debug/WyCo.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.CarouselView.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Newtonsoft.Json.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Newtonsoft.Json.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.Abstractions.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Maps.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.Abstractions.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.Abstractions.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Maps.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Restaurantes.xaml.g.cs
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/obj/Debug/WyCo.Tabbed.Menu.xaml.g.cs
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/obj/Debug/WyCo.Tabbed.Carta.xaml.g.cs
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/obj/Debug/WyCo.Tabbed.Domicilio.xaml.g.cs
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Animacion.xaml.g.cs
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Promociones.xaml.g.cs
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.Extras.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Microsoft.Practices.ServiceLocation.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.Extras.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.Extras.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Microsoft.Practices.ServiceLocation.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Microsoft.Practices.ServiceLocation.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/PCLCrypto.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/PInvoke.BCrypt.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Kernel32.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/PInvoke.NCrypt.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Windows.Core.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/SQLite.Net.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Validation.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Auth.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/PCLCrypto.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/PInvoke.BCrypt.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Kernel32.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/PInvoke.NCrypt.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Windows.Core.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Validation.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Auth.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/obj/Debug/WyCo.Login.xaml.g.cs
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Datos.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/WyCo.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/WyCo.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.Extras.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Microsoft.Practices.ServiceLocation.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Newtonsoft.Json.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/PCLCrypto.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/PInvoke.BCrypt.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Kernel32.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/PInvoke.NCrypt.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Windows.Core.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.Abstractions.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/SQLite.Net.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Validation.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Auth.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.CarouselView.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Maps.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.Extras.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.Extras.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Microsoft.Practices.ServiceLocation.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Microsoft.Practices.ServiceLocation.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Newtonsoft.Json.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/PCLCrypto.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/PInvoke.BCrypt.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Kernel32.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/PInvoke.NCrypt.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Windows.Core.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.Abstractions.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.Abstractions.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Validation.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Auth.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Maps.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/obj/Debug/WyCo.csprojResolveAssemblyReference.cache
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/obj/Debug/WyCo.csproj.CoreCompileInputs.cache
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/obj/Debug/WyCo.App.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.MasterPage.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.MenuPage.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.UserPage.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Restaurantes.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/obj/Debug/WyCo.Tabbed.Menu.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/obj/Debug/WyCo.Tabbed.Carta.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/obj/Debug/WyCo.Tabbed.Domicilio.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Animacion.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Promociones.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/obj/Debug/WyCo.Login.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Datos.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/obj/Debug/WyCo.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo/obj/Debug/WyCo.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/WyCo.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/WyCo.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/DLToolkit.Forms.Controls.FlowListView.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.Extras.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Microsoft.Practices.ServiceLocation.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Newtonsoft.Json.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/PCLCrypto.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/PInvoke.BCrypt.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Kernel32.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/PInvoke.NCrypt.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Windows.Core.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.Abstractions.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/SQLite.Net.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Validation.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Auth.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.CarouselView.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Maps.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/DLToolkit.Forms.Controls.FlowListView.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.Extras.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.Extras.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Microsoft.Practices.ServiceLocation.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Microsoft.Practices.ServiceLocation.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Newtonsoft.Json.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/PCLCrypto.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/PInvoke.BCrypt.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Kernel32.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/PInvoke.NCrypt.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Windows.Core.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.Abstractions.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.Abstractions.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Validation.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Auth.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Maps.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/obj/Debug/WyCo.csprojResolveAssemblyReference.cache
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/obj/Debug/WyCo.csproj.CoreCompileInputs.cache
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/obj/Debug/WyCo.App.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.MasterPage.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.MenuPage.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.UserPage.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Restaurantes.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/obj/Debug/WyCo.Tabbed.Menu.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/obj/Debug/WyCo.Tabbed.Carta.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/obj/Debug/WyCo.Tabbed.Domicilio.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Animacion.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Promociones.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/obj/Debug/WyCo.Login.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Datos.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/obj/Debug/WyCo.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/obj/Debug/WyCo.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Promocion.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/obj/Debug/WyCo.LoginPromos.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Rg.Plugins.Popup.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Rg.Plugins.Popup.Platform.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.Abstractions.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.Abstractions.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/obj/Debug/WyCo.PopUp.DialogRegistrado.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/obj/Debug/WyCo.PopUp.DialogoConexion.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/obj/Debug/WyCo.PopUp.DialogoServidor.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/obj/Debug/WyCo.PopUp.DialogoUbicacion.xaml.g.cs
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo/obj/Debug/WyCo.PopUp.DialogoNoDia.xaml.g.cs
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/WyCo.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/WyCo.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/DLToolkit.Forms.Controls.FlowListView.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.Extras.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Microsoft.Practices.ServiceLocation.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Newtonsoft.Json.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/PCLCrypto.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/PInvoke.BCrypt.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Kernel32.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/PInvoke.NCrypt.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Windows.Core.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.Abstractions.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.Abstractions.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Rg.Plugins.Popup.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Rg.Plugins.Popup.Platform.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/SQLite.Net.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Validation.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Auth.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.CarouselView.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Maps.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/DLToolkit.Forms.Controls.FlowListView.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.Extras.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.Extras.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Microsoft.Practices.ServiceLocation.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Microsoft.Practices.ServiceLocation.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Newtonsoft.Json.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/PCLCrypto.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/PInvoke.BCrypt.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Kernel32.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/PInvoke.NCrypt.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Windows.Core.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.Abstractions.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.Abstractions.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.Abstractions.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Validation.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Auth.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Maps.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.csproj.CoreCompileInputs.cache
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.App.xaml.g.cs
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.MasterPage.xaml.g.cs
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.MenuPage.xaml.g.cs
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.UserPage.xaml.g.cs
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Restaurantes.xaml.g.cs
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.Tabbed.Menu.xaml.g.cs
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.Tabbed.Carta.xaml.g.cs
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.Tabbed.Domicilio.xaml.g.cs
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Animacion.xaml.g.cs
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Promociones.xaml.g.cs
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.Login.xaml.g.cs
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Datos.xaml.g.cs
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Promocion.xaml.g.cs
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.LoginPromos.xaml.g.cs
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.PopUp.DialogRegistrado.xaml.g.cs
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.PopUp.DialogoConexion.xaml.g.cs
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.PopUp.DialogoServidor.xaml.g.cs
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.PopUp.DialogoUbicacion.xaml.g.cs
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.PopUp.DialogoNoDia.xaml.g.cs
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.PopUp.DialogoError.xaml.g.cs
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Forms.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Platform.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Svg.Forms.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Svg.Platform.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/SkiaSharp.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Forms.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Forms.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Platform.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Svg.Forms.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Svg.Platform.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/bin/Debug/SkiaSharp.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo/obj/Debug/WyCo.csprojResolveAssemblyReference.cache
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/WyCo.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/WyCo.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/DLToolkit.Forms.Controls.FlowListView.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Forms.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Platform.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Svg.Forms.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Svg.Platform.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.Extras.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Microsoft.Practices.ServiceLocation.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Newtonsoft.Json.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/PCLCrypto.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/PInvoke.BCrypt.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Kernel32.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/PInvoke.NCrypt.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Windows.Core.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.Abstractions.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Rg.Plugins.Popup.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Rg.Plugins.Popup.Platform.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/SkiaSharp.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/SQLite.Net.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Validation.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Auth.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.CarouselView.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Core.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Maps.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/DLToolkit.Forms.Controls.FlowListView.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Forms.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Forms.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Platform.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Svg.Forms.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Svg.Platform.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.Extras.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.Extras.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Microsoft.Practices.ServiceLocation.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Microsoft.Practices.ServiceLocation.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Microsoft.Practices.ServiceLocation.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Newtonsoft.Json.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/PCLCrypto.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/PInvoke.BCrypt.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Kernel32.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/PInvoke.NCrypt.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Windows.Core.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.Abstractions.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.Abstractions.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/SkiaSharp.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Validation.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Auth.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Core.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Maps.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.csproj.CoreCompileInputs.cache
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.App.xaml.g.cs
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.MasterPage.xaml.g.cs
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.MenuPage.xaml.g.cs
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.UserPage.xaml.g.cs
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Restaurantes.xaml.g.cs
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.Tabbed.Menu.xaml.g.cs
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.Tabbed.Carta.xaml.g.cs
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.Tabbed.Domicilio.xaml.g.cs
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Animacion.xaml.g.cs
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Promociones.xaml.g.cs
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.Login.xaml.g.cs
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Datos.xaml.g.cs
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Promocion.xaml.g.cs
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.LoginPromos.xaml.g.cs
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.PopUp.DialogRegistrado.xaml.g.cs
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.PopUp.DialogoConexion.xaml.g.cs
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.PopUp.DialogoServidor.xaml.g.cs
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.PopUp.DialogoUbicacion.xaml.g.cs
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.PopUp.DialogoNoDia.xaml.g.cs
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.PopUp.DialogoError.xaml.g.cs
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/obj/Debug/WyCo.csprojResolveAssemblyReference.cache
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/WyCo.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/WyCo.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/DLToolkit.Forms.Controls.FlowListView.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Forms.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Platform.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Svg.Forms.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Svg.Platform.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.Extras.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Microsoft.Practices.ServiceLocation.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Newtonsoft.Json.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/PCLCrypto.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/PInvoke.BCrypt.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Kernel32.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/PInvoke.NCrypt.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Windows.Core.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Plugin.FirebasePushNotification.Abstractions.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Plugin.FirebasePushNotification.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.Abstractions.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Rg.Plugins.Popup.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Rg.Plugins.Popup.Platform.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/SkiaSharp.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/SQLite.Net.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Validation.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Auth.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.CarouselView.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Core.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Maps.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/DLToolkit.Forms.Controls.FlowListView.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Forms.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Forms.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Platform.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Svg.Forms.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/FFImageLoading.Svg.Platform.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.Extras.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/GalaSoft.MvvmLight.Extras.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Microsoft.Practices.ServiceLocation.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Microsoft.Practices.ServiceLocation.dll.mdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Microsoft.Practices.ServiceLocation.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Newtonsoft.Json.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/PCLCrypto.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/PInvoke.BCrypt.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Kernel32.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/PInvoke.NCrypt.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/PInvoke.Windows.Core.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.Abstractions.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Plugin.Geolocator.Abstractions.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/SkiaSharp.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Validation.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Auth.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Core.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Maps.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Plugin.FirebasePushNotification.Abstractions.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Plugin.FirebasePushNotification.Abstractions.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/bin/Debug/Plugin.FirebasePushNotification.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.csprojResolveAssemblyReference.cache
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.csproj.CoreCompileInputs.cache
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.App.xaml.g.cs
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.MasterPage.xaml.g.cs
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.MenuPage.xaml.g.cs
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.UserPage.xaml.g.cs
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Restaurantes.xaml.g.cs
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.Tabbed.Menu.xaml.g.cs
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.Tabbed.Carta.xaml.g.cs
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.Tabbed.Domicilio.xaml.g.cs
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Animacion.xaml.g.cs
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Promociones.xaml.g.cs
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.Login.xaml.g.cs
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Datos.xaml.g.cs
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.Pages.Promocion.xaml.g.cs
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.LoginPromos.xaml.g.cs
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.PopUp.DialogRegistrado.xaml.g.cs
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.PopUp.DialogoConexion.xaml.g.cs
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.PopUp.DialogoServidor.xaml.g.cs
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.PopUp.DialogoUbicacion.xaml.g.cs
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.PopUp.DialogoNoDia.xaml.g.cs
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.PopUp.DialogoError.xaml.g.cs
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo/obj/Debug/WyCo.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Plugin.FirebasePushNotification.Abstractions.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Plugin.FirebasePushNotification.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Plugin.FirebasePushNotification.Abstractions.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Plugin.FirebasePushNotification.Abstractions.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo/bin/Debug/Plugin.FirebasePushNotification.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\WyCo.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\WyCo.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\DLToolkit.Forms.Controls.FlowListView.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\FFImageLoading.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\FFImageLoading.Forms.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\FFImageLoading.Platform.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\FFImageLoading.Svg.Forms.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\FFImageLoading.Svg.Platform.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\PCLCrypto.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\PInvoke.BCrypt.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\PInvoke.Kernel32.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\PInvoke.NCrypt.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\PInvoke.Windows.Core.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Plugin.Connectivity.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Plugin.FirebasePushNotification.Abstractions.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Plugin.FirebasePushNotification.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Plugin.Geolocator.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Rg.Plugins.Popup.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Rg.Plugins.Popup.Platform.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\SkiaSharp.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\SQLite.Net.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Validation.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Xamarin.Auth.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Xamarin.Forms.CarouselView.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\DLToolkit.Forms.Controls.FlowListView.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\FFImageLoading.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\FFImageLoading.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\FFImageLoading.Forms.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\FFImageLoading.Forms.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\FFImageLoading.Platform.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\FFImageLoading.Svg.Forms.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\FFImageLoading.Svg.Platform.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\PCLCrypto.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\PInvoke.BCrypt.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\PInvoke.Kernel32.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\PInvoke.NCrypt.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\PInvoke.Windows.Core.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Plugin.Connectivity.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Plugin.Geolocator.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\SkiaSharp.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Validation.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Xamarin.Auth.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Plugin.FirebasePushNotification.Abstractions.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Plugin.FirebasePushNotification.Abstractions.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\bin\Debug\Plugin.FirebasePushNotification.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.csproj.CoreCompileInputs.cache
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.App.xaml.g.cs
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.Pages.MasterPage.xaml.g.cs
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.Pages.MenuPage.xaml.g.cs
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.Pages.UserPage.xaml.g.cs
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.Pages.Restaurantes.xaml.g.cs
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.Tabbed.Menu.xaml.g.cs
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.Tabbed.Carta.xaml.g.cs
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.Tabbed.Domicilio.xaml.g.cs
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.Pages.Animacion.xaml.g.cs
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.Pages.Promociones.xaml.g.cs
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.Login.xaml.g.cs
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.Pages.Datos.xaml.g.cs
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.Pages.Promocion.xaml.g.cs
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.LoginPromos.xaml.g.cs
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.PopUp.DialogRegistrado.xaml.g.cs
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.PopUp.DialogoConexion.xaml.g.cs
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.PopUp.DialogoServidor.xaml.g.cs
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.PopUp.DialogoUbicacion.xaml.g.cs
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.PopUp.DialogoNoDia.xaml.g.cs
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.PopUp.DialogoError.xaml.g.cs
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo\obj\Debug\WyCo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WyCo.Pages.Promocion">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="http://tools.agorafranquicias.com/APP/Images/Encabezado/EncabezadoPromociones.png"/>
+            <AbsoluteLayout>
+                <Image x:Name="promo" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"/>
+                <Image x:Name="Cruz" Source="cruz" HeightRequest="50" WidthRequest="50" AbsoluteLayout.LayoutBounds=".5,20,675,30"/>
+            </AbsoluteLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+             x:Class="WyCo.PopUp.DialogoUbicacion">
+    <ContentPage.Content>
+        <AbsoluteLayout x:Name="Fondo" VerticalOptions="Center" HorizontalOptions="Center" HeightRequest="150" WidthRequest="320">
+            <Image Source="Ubicacion" HeightRequest="50" WidthRequest="50" AbsoluteLayout.LayoutBounds="30,25,50,50"/>
+            <Label Text="Ha olvidado activar la ubicación." x:Name="label" HorizontalOptions="Center" FontSize="Medium" AbsoluteLayout.LayoutBounds="100,25,180,45"/>
+            <Button x:Name="Ok" Text="OK" Clicked="Ok_Clicked" FontAttributes="Bold"  AbsoluteLayout.LayoutBounds="160,90,120,40"/>
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</pages:PopupPage>

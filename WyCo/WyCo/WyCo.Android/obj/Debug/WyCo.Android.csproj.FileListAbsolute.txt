@@ -1,0 +1,1141 @@
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.Android.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.Android.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/com.companyname.WyCo.apk
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/com.companyname.WyCo-Signed.apk
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/FormsViewGroup.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Annotations.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Compat.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Core.UI.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Design.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Fragment.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v4.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/FormsViewGroup.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.csprojResolveAssemblyReference.cache
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.csproj.CoreCompileInputs.cache
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/android/bin/com.companyname.WyCo.apk
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable-hdpi/icon.png
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable-xhdpi/icon.png
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable-xxhdpi/icon.png
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/res/layout/tabbar.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/res/layout/toolbar.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/res/values/styles.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/fondoportada.jpg
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/R.cs.flag
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/uploadflags.txt
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/FormsViewGroup.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.Android.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/FormsViewGroup.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/WyCo.Android.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/WyCo.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Xamarin.Forms.Core.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/restaurantewycoencabezado.png
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/botonrestaurantes.png
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/botoncarta.png
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/botonpromociones.png
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Transition.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.Palette.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.CarouselView.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Newtonsoft.Json.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Newtonsoft.Json.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.CurrentActivity.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Maps.Android.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Maps.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Base.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Basement.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Maps.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.CurrentActivity.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Maps.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Plugin.Geolocator.Abstractions.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Plugin.Geolocator.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Plugin.Permissions.Abstractions.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Plugin.Permissions.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/fondotabbed.jpg
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/icono.png
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/portada1.jpg
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/menulateral.jpg
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.xml
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/GalaSoft.MvvmLight.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/GalaSoft.MvvmLight.Extras.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/GalaSoft.MvvmLight.Platform.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Microsoft.Practices.ServiceLocation.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/SQLite.Net.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/SQLite.Net.Platform.XamarinAndroid.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.CustomTabs.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Auth.dll
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Auth.pdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Auth.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Xamarin.Auth.dll.mdb
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/animacion.jpg
+C:/Users/luiss/source/repos/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/botonchapatas.png
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.Android.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.Android.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/com.companyname.WyCo.apk
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/com.companyname.WyCo-Signed.apk
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/FormsViewGroup.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Newtonsoft.Json.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.CurrentActivity.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/SQLite.Net.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/SQLite.Net.Platform.XamarinAndroid.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Annotations.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Compat.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Core.UI.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.CustomTabs.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Design.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Fragment.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Transition.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v4.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.Palette.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Auth.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.CarouselView.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Maps.Android.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Maps.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Base.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Basement.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Maps.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/FormsViewGroup.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/FormsViewGroup.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Newtonsoft.Json.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.CurrentActivity.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Auth.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Auth.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Maps.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.csprojResolveAssemblyReference.cache
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.csproj.CoreCompileInputs.cache
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.dll
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.pdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/android/bin/com.companyname.WyCo.apk
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable-hdpi/icon.png
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable-xhdpi/icon.png
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable-xxhdpi/icon.png
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/res/layout/tabbar.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/res/layout/toolbar.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/res/values/styles.xml
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/fondoportada.jpg
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/restaurantewycoencabezado.png
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/botonrestaurantes.png
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/botoncarta.png
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/botonpromociones.png
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/fondotabbed.jpg
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/icono.png
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/portada1.jpg
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/menulateral.jpg
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/animacion.jpg
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/botonchapatas.png
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/R.cs.flag
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/uploadflags.txt
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.Android.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/FormsViewGroup.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/GalaSoft.MvvmLight.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/GalaSoft.MvvmLight.Extras.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/GalaSoft.MvvmLight.Platform.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Microsoft.Practices.ServiceLocation.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Plugin.Geolocator.Abstractions.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Plugin.Geolocator.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Plugin.Permissions.Abstractions.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Plugin.Permissions.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/WyCo.Android.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/WyCo.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Xamarin.Auth.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Xamarin.Forms.Core.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/encabezadopromociones.png
+C:/Users/luiss/source/repos/Antiguo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/encabezadorestaurantes.png
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.Android.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.Android.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/com.companyname.WyCo.apk
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/com.companyname.WyCo-Signed.apk
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/DLToolkit.Forms.Controls.FlowListView.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/FormsViewGroup.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Newtonsoft.Json.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.CurrentActivity.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/SQLite.Net.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/SQLite.Net.Platform.XamarinAndroid.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Annotations.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Compat.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Core.UI.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.CustomTabs.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Design.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Fragment.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Transition.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v4.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.Palette.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Auth.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.CarouselView.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Maps.Android.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Maps.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Base.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Basement.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Maps.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/DLToolkit.Forms.Controls.FlowListView.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/FormsViewGroup.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/FormsViewGroup.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Newtonsoft.Json.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.CurrentActivity.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Auth.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Auth.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Maps.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.csprojResolveAssemblyReference.cache
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.csproj.CoreCompileInputs.cache
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/android/bin/com.companyname.WyCo.apk
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable-hdpi/icon.png
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable-xhdpi/icon.png
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable-xxhdpi/icon.png
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/res/layout/tabbar.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/res/layout/toolbar.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/res/values/styles.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/fondoportada.jpg
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/restaurantewycoencabezado.png
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/fondotabbed.jpg
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/icono.png
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/portada1.jpg
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/animacion.jpg
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/R.cs.flag
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/uploadflags.txt
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.Android.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/FormsViewGroup.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/GalaSoft.MvvmLight.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/GalaSoft.MvvmLight.Extras.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/GalaSoft.MvvmLight.Platform.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Microsoft.Practices.ServiceLocation.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Plugin.Geolocator.Abstractions.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Plugin.Geolocator.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Plugin.Permissions.Abstractions.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Plugin.Permissions.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/WyCo.Android.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/WyCo.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Xamarin.Auth.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Xamarin.Forms.Core.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/cruz.png
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/bloqueado.png
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Rg.Plugins.Popup.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Rg.Plugins.Popup.Droid.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Rg.Plugins.Popup.Platform.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.Abstractions.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.dll
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.Abstractions.xml
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.Abstractions.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Plugin.Connectivity.Abstractions.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Plugin.Connectivity.dll.mdb
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/ubicacion.png
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/defmayor.png
+C:/Users/luiss/source/repos/Antiguo/Funciona/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/defmenor.png
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.Android.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.Android.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/com.companyname.WyCo.apk
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/com.companyname.WyCo-Signed.apk
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/DLToolkit.Forms.Controls.FlowListView.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/FormsViewGroup.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Newtonsoft.Json.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.Abstractions.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.CurrentActivity.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Rg.Plugins.Popup.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Rg.Plugins.Popup.Droid.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Rg.Plugins.Popup.Platform.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/SQLite.Net.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/SQLite.Net.Platform.XamarinAndroid.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Annotations.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Compat.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Core.UI.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.CustomTabs.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Design.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Fragment.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Transition.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v4.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.Palette.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Auth.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Firebase.Common.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Firebase.Iid.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Firebase.Messaging.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.CarouselView.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Maps.Android.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Maps.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Base.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Basement.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Gcm.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Iid.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Maps.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Tasks.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/DLToolkit.Forms.Controls.FlowListView.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/FormsViewGroup.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/FormsViewGroup.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Newtonsoft.Json.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.Abstractions.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.Abstractions.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.CurrentActivity.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Auth.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Auth.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Maps.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.csprojResolveAssemblyReference.cache
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Basement.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Tasks.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Base.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Iid.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Gcm.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Maps.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.Firebase.Common.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.Firebase.Iid.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.Firebase.Messaging.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/ProcessGoogleServicesJson.stamp
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.csproj.CoreCompileInputs.cache
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/android/bin/com.companyname.WyCo.apk
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable-hdpi/icon.png
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable-xhdpi/icon.png
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable-xxhdpi/icon.png
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/res/layout/tabbar.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/res/layout/toolbar.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/res/values/styles.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/fondoportada.jpg
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/restaurantewycoencabezado.png
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/fondotabbed.jpg
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/icono.png
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/portada1.jpg
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/animacion.jpg
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/cruz.png
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/bloqueado.png
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/ubicacion.png
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/defmayor.png
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/defmenor.png
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/R.cs.flag
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/uploadflags.txt
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Forms.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Forms.Droid.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Platform.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Svg.Forms.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Svg.Platform.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/SkiaSharp.dll
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Forms.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Forms.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Forms.Droid.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Forms.Droid.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Platform.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Platform.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Svg.Forms.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Svg.Forms.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Svg.Platform.pdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Svg.Platform.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/SkiaSharp.xml
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/proximamente.png
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.Android.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/FormsViewGroup.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/GalaSoft.MvvmLight.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/GalaSoft.MvvmLight.Extras.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/GalaSoft.MvvmLight.Platform.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Microsoft.Practices.ServiceLocation.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Plugin.Connectivity.Abstractions.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Plugin.Connectivity.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Plugin.Geolocator.Abstractions.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Plugin.Geolocator.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Plugin.Permissions.Abstractions.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Plugin.Permissions.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/WyCo.Android.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/WyCo.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Xamarin.Auth.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Xamarin.Forms.Core.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll.mdb
+C:/Users/luiss/source/repos/Nuevo/WyCo/WyCo/WyCo.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.Android.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.Android.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/com.companyname.WyCo.apk
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/com.companyname.WyCo-Signed.apk
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/DLToolkit.Forms.Controls.FlowListView.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Forms.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Forms.Droid.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Platform.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Svg.Forms.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Svg.Platform.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/FormsViewGroup.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Newtonsoft.Json.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.CurrentActivity.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Rg.Plugins.Popup.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Rg.Plugins.Popup.Droid.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Rg.Plugins.Popup.Platform.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/SkiaSharp.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/SQLite.Net.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/SQLite.Net.Platform.XamarinAndroid.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Annotations.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Compat.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Core.UI.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.CustomTabs.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Design.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Fragment.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Transition.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.Palette.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Auth.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Firebase.Common.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Firebase.Iid.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Firebase.Messaging.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.CarouselView.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Maps.Android.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Maps.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Base.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Basement.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Gcm.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Iid.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Maps.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Tasks.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/DLToolkit.Forms.Controls.FlowListView.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Forms.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Forms.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Forms.Droid.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Forms.Droid.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Platform.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Platform.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Svg.Forms.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Svg.Forms.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Svg.Platform.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Svg.Platform.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/FormsViewGroup.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/FormsViewGroup.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Newtonsoft.Json.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.Abstractions.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.CurrentActivity.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/SkiaSharp.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Auth.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Auth.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Maps.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.csprojResolveAssemblyReference.cache
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Basement.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Tasks.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Base.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Iid.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Gcm.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Maps.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.Firebase.Common.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.Firebase.Iid.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.Firebase.Messaging.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/ProcessGoogleServicesJson.stamp
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.csproj.CoreCompileInputs.cache
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/android/bin/com.companyname.WyCo.apk
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable-hdpi/icon.png
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/res/layout/tabbar.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/res/layout/toolbar.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/res/values/styles.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/fondoportada.jpg
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/restaurantewycoencabezado.png
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/fondotabbed.jpg
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/icono.png
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/portada1.jpg
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/animacion.jpg
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/cruz.png
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/bloqueado.png
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/ubicacion.png
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/defmayor.png
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/defmenor.png
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/proximamente.png
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/R.cs.flag
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/uploadflags.txt
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/flecha.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.Android.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.Android.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/com.companyname.WyCo.apk
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/com.companyname.WyCo-Signed.apk
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/DLToolkit.Forms.Controls.FlowListView.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Forms.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Forms.Droid.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Platform.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Svg.Forms.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Svg.Platform.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/FormsViewGroup.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Newtonsoft.Json.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.CurrentActivity.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Rg.Plugins.Popup.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Rg.Plugins.Popup.Droid.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Rg.Plugins.Popup.Platform.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/SkiaSharp.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/SQLite.Net.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/SQLite.Net.Platform.XamarinAndroid.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Annotations.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Compat.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Core.UI.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.CustomTabs.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Design.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Fragment.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Transition.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.Palette.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Auth.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Firebase.Common.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Firebase.Iid.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Firebase.Messaging.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.CarouselView.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Maps.Android.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Maps.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Base.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Basement.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Gcm.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Iid.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Maps.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.GooglePlayServices.Tasks.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.FirebasePushNotification.Abstractions.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.FirebasePushNotification.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/WyCo.dll.mdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/DLToolkit.Forms.Controls.FlowListView.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Forms.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Forms.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Forms.Droid.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Forms.Droid.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Platform.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Platform.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Svg.Forms.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Svg.Forms.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Svg.Platform.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/FFImageLoading.Svg.Platform.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/FormsViewGroup.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/FormsViewGroup.dll.mdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.dll.mdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.dll.mdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Extras.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.dll.mdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/GalaSoft.MvvmLight.Platform.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.dll.mdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Microsoft.Practices.ServiceLocation.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Newtonsoft.Json.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.dll.mdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.Abstractions.dll.mdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.CurrentActivity.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.dll.mdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.dll.mdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Geolocator.Abstractions.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.dll.mdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.dll.mdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.Permissions.Abstractions.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/SkiaSharp.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Auth.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Auth.dll.mdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Core.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Maps.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.FirebasePushNotification.Abstractions.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.FirebasePushNotification.Abstractions.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/bin/Debug/Plugin.FirebasePushNotification.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.csprojResolveAssemblyReference.cache
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Basement.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Tasks.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Base.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Iid.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Gcm.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.GooglePlayServices.Maps.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.Firebase.Common.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.Firebase.Iid.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/XbdMerge/Xamarin.Firebase.Messaging.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/ProcessGoogleServicesJson.stamp
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.csproj.CoreCompileInputs.cache
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/WyCo.Android.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/android/bin/com.companyname.WyCo.apk
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable-hdpi/icon.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable-xhdpi/icon.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable-xxhdpi/icon.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/flecha.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/res/layout/tabbar.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/res/layout/toolbar.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/res/values/styles.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/fondoportada.jpg
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/restaurantewycoencabezado.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/fondotabbed.jpg
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/icono.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/portada1.jpg
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/animacion.jpg
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/cruz.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/bloqueado.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/ubicacion.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/defmayor.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/defmenor.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/res/drawable/proximamente.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/R.cs.flag
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.Android/obj/Debug/uploadflags.txt
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\WyCo.Android.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\WyCo.Android.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\com.companyname.WyCo.apk
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\com.companyname.WyCo-Signed.apk
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\DLToolkit.Forms.Controls.FlowListView.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\FFImageLoading.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\FFImageLoading.Forms.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\FFImageLoading.Forms.Droid.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\FFImageLoading.Platform.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\FFImageLoading.Svg.Forms.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\FFImageLoading.Svg.Platform.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\FormsViewGroup.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Connectivity.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.CurrentActivity.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Geolocator.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Permissions.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Rg.Plugins.Popup.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Rg.Plugins.Popup.Droid.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Rg.Plugins.Popup.Platform.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\SkiaSharp.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\SQLite.Net.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\WyCo.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Auth.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Firebase.Common.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Firebase.Iid.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Firebase.Messaging.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Forms.CarouselView.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Forms.Maps.Android.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.GooglePlayServices.Gcm.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.GooglePlayServices.Iid.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\WyCo.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\DLToolkit.Forms.Controls.FlowListView.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\FFImageLoading.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\FFImageLoading.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\FFImageLoading.Forms.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\FFImageLoading.Forms.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\FFImageLoading.Forms.Droid.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\FFImageLoading.Forms.Droid.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\FFImageLoading.Platform.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\FFImageLoading.Platform.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\FFImageLoading.Svg.Forms.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\FFImageLoading.Svg.Forms.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\FFImageLoading.Svg.Platform.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\FFImageLoading.Svg.Platform.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\GalaSoft.MvvmLight.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\GalaSoft.MvvmLight.Extras.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\GalaSoft.MvvmLight.Platform.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Microsoft.Practices.ServiceLocation.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Connectivity.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Connectivity.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Connectivity.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Connectivity.Abstractions.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.CurrentActivity.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Geolocator.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Permissions.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Permissions.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Permissions.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\SkiaSharp.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Auth.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Auth.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\WyCo.Android.csprojResolveAssemblyReference.cache
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Iid.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Gcm.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\XbdMerge\Xamarin.Firebase.Common.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\XbdMerge\Xamarin.Firebase.Iid.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\XbdMerge\Xamarin.Firebase.Messaging.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\ProcessGoogleServicesJson.stamp
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\WyCo.Android.csproj.CoreCompileInputs.cache
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\WyCo.Android.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\WyCo.Android.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\android\bin\com.companyname.WyCo.apk
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\res\drawable\flecha.png
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\res\layout\tabbar.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\res\layout\toolbar.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\res\values\styles.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\res\drawable\fondoportada.jpg
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\res\drawable\restaurantewycoencabezado.png
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\res\drawable\fondotabbed.jpg
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\res\drawable\icono.png
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\res\drawable\portada1.jpg
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\res\drawable\animacion.jpg
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\res\drawable\cruz.png
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\res\drawable\bloqueado.png
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\res\drawable\ubicacion.png
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\res\drawable\defmayor.png
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\res\drawable\defmenor.png
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\res\drawable\proximamente.png
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\R.cs.flag
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\uploadflags.txt
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\WyCo.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\WyCo.Android.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.Extras.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\android\assets\GalaSoft.MvvmLight.Platform.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\android\assets\Microsoft.Practices.ServiceLocation.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\android\assets\Plugin.Connectivity.Abstractions.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\android\assets\Plugin.Connectivity.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\android\assets\WyCo.Android.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\android\assets\WyCo.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\android\assets\Xamarin.Auth.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.Android\bin\Debug\WyCo.Android.dll
+bin\Debug\WyCo.dll.mdb
+bin\Debug\Microsoft.CSharp.pdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.IO.Compression.pdb
+bin\Debug\System.Json.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\System.Numerics.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\WyCo.Android.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\GalaSoft.MvvmLight.dll.mdb
+obj\Debug\linksrc\GalaSoft.MvvmLight.Extras.dll.mdb
+obj\Debug\linksrc\GalaSoft.MvvmLight.Platform.dll.mdb
+obj\Debug\linksrc\Microsoft.Practices.ServiceLocation.dll.mdb
+obj\Debug\linksrc\Plugin.Connectivity.Abstractions.dll.mdb
+obj\Debug\linksrc\Plugin.Connectivity.dll.mdb
+obj\Debug\linksrc\Plugin.Geolocator.Abstractions.dll.mdb
+obj\Debug\linksrc\Plugin.Geolocator.dll.mdb
+obj\Debug\linksrc\Plugin.Permissions.Abstractions.dll.mdb
+obj\Debug\linksrc\Plugin.Permissions.dll.mdb
+obj\Debug\linksrc\WyCo.dll.mdb
+obj\Debug\linksrc\Xamarin.Auth.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\FFImageLoading.pdb
+obj\Debug\linksrc\FFImageLoading.Forms.pdb
+obj\Debug\linksrc\FFImageLoading.Forms.Droid.pdb
+obj\Debug\linksrc\FFImageLoading.Platform.pdb
+obj\Debug\linksrc\FFImageLoading.Svg.Forms.pdb
+obj\Debug\linksrc\FFImageLoading.Svg.Platform.pdb
+obj\Debug\linksrc\Microsoft.CSharp.pdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.IO.Compression.pdb
+obj\Debug\linksrc\System.Json.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\System.Numerics.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb

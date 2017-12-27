@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WyCo.Pages.UserPage"
+             xmlns:forms="clr-namespace:Xamarin.Forms;assembly=Xamarin.Forms.CarouselView">
+    <ContentPage.Content>
+        <!--
+        Hemos hecho un RelativeLayout para que cuando se genere tanto en android como 
+        en iOS  se vean igual, por lo que se adapta a cualquier tipo de resolución,
+        etc...
+        -->
+        <RelativeLayout>
+            <Image  Source="FondoPortada.jpg" Aspect="Fill" RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width}" RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height}"/>
+            <Grid RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width}" RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height}">
+                <Image Source="RestauranteWyCoencabezado.png"  VerticalOptions="StartAndExpand"/>
+                <!--Carousel-->
+
+                <!--AbsoluteLayout.LayoutBounds="0,0,340,160"-->
+                <AbsoluteLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" Padding="0,0,0,40">
+                    <forms:CarouselView x:Name="Carousel" HeightRequest="360" IsVisible="False" IsEnabled="False" AbsoluteLayout.LayoutBounds="0,0,320,160">
+                        <forms:CarouselView.ItemTemplate>
+                            <DataTemplate>
+                                <Image Source="{Binding URL}"/>
+                            </DataTemplate>
+                        </forms:CarouselView.ItemTemplate>
+                    </forms:CarouselView>
+                    <Image x:Name="DefMenor" Source="DefMenor" IsVisible="False" AbsoluteLayout.LayoutBounds="25,80,50,30"/>
+                    <Image x:Name="DefMayor" Source="DefMayor" IsVisible="False" AbsoluteLayout.LayoutBounds="255,80,50,30"/>
+                </AbsoluteLayout>
+
+                <!--Final de Carousel-->
+
+                <StackLayout Orientation="Vertical" VerticalOptions="EndAndExpand">
+                    <StackLayout VerticalOptions="EndAndExpand">
+                        <Image x:Name="Promociones" Source="http://tools.agorafranquicias.com/APP/Images/Boton/BotonPromocion.png" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+                        <Image x:Name="Carta" Source="http://tools.agorafranquicias.com/APP/Images/Boton/BotonCarta.png" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+                    </StackLayout>
+                    <StackLayout VerticalOptions="EndAndExpand" Padding="0,0,0,20">
+                        <Image x:Name="Restaurantes" Source="http://tools.agorafranquicias.com/APP/Images/Boton/BotonRestaurantes.png" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+                    </StackLayout>
+                </StackLayout>
+            </Grid>
+        </RelativeLayout>
+    </ContentPage.Content>
+</ContentPage>

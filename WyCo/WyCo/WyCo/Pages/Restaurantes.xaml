@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+             BindingContext="{Binding Main, Source={StaticResource Locator}}"
+             x:Class="WyCo.Pages.Restaurantes">
+    <ContentPage.Content>
+        <StackLayout>
+            <AbsoluteLayout>
+                 <Image Source="http://tools.agorafranquicias.com/APP/Images/Encabezado/EncabezadoRestaurantes.png" HeightRequest="70"/>
+                <StackLayout Padding="13,13,0,0">
+                    <Image x:Name="atras" Source="flecha.png" HeightRequest="35" WidthRequest="35"/>
+                </StackLayout>
+            </AbsoluteLayout>
+            <maps:Map 
+                WidthRequest="320" 
+                HeightRequest="200"
+                x:Name="MyMap"
+                IsShowingUser="true"
+                MapType="Street">
+            </maps:Map>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

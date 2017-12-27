@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{2940E9EA-FF84-48EA-B7C3-B81480272851}|Default">
+  <MonoDevelop.Ide.ItemProperties.WyCo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.51E2F20C-4282-4F09-9E57-951C350F9B06" automaticSigning="False" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WyCo/WyCo.iOS/AppDelegate.cs">
+    <Files>
+      <File FileName="WyCo/WyCo.iOS/Info.plist" />
+      <File FileName="WyCo/WyCo.iOS/AppDelegate.cs" Line="16" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WyCo.Android PreferredExecutionTarget="Android.9DC4C17410000864" />
+</Properties>

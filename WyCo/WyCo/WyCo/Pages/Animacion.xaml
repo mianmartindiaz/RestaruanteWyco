@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WyCo.Pages.Animacion"
+
+             IsEnabled="False">
+    <ContentPage.Content>
+         <RelativeLayout>
+    <Image  Source="Portada1.jpg" Aspect="Fill"
+                RelativeLayout.WidthConstraint=
+                  "{ConstraintExpression Type=RelativeToParent, Property=Width}"
+                RelativeLayout.HeightConstraint=
+                  "{ConstraintExpression Type=RelativeToParent, Property=Height}"/>
+    <Grid RelativeLayout.WidthConstraint=
+              "{ConstraintExpression Type=RelativeToParent, Property=Width}"
+            RelativeLayout.HeightConstraint=
+              "{ConstraintExpression Type=RelativeToParent, Property=Height}">
+              <Image x:Name="Imagen" Source="Animacion.JPG" Opacity="0" VerticalOptions="EndAndExpand"/>
+    </Grid>
+           
+  </RelativeLayout>
+        
+    </ContentPage.Content>
+</ContentPage>

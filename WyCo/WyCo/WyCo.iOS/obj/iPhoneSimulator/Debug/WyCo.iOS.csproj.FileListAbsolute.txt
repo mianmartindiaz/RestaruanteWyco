@@ -1,0 +1,457 @@
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/WyCo.iOS.exe.config
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/WyCo.iOS.exe
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/WyCo.iOS.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/DLToolkit.Forms.Controls.FlowListView.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.Touch.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Platform.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Forms.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Platform.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.Extras.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.Platform.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Microsoft.Practices.ServiceLocation.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/PCLCrypto.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/PInvoke.BCrypt.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/PInvoke.Kernel32.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/PInvoke.NCrypt.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/PInvoke.Windows.Core.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.Geolocator.Abstractions.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.Geolocator.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Rg.Plugins.Popup.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Rg.Plugins.Popup.IOS.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Rg.Plugins.Popup.Platform.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/SkiaSharp.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/SQLite.Net.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/SQLite.Net.Platform.XamarinIOS.Unified.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Validation.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/WebP.Touch.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/WyCo.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Auth.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.CarouselView.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.iOS.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/WyCo.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/WyCo.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/DLToolkit.Forms.Controls.FlowListView.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.Touch.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.Touch.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Platform.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Platform.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Forms.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Forms.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Platform.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Platform.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.Extras.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.Extras.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.Platform.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Microsoft.Practices.ServiceLocation.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Microsoft.Practices.ServiceLocation.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Microsoft.Practices.ServiceLocation.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/PCLCrypto.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/PInvoke.BCrypt.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/PInvoke.Kernel32.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/PInvoke.NCrypt.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/PInvoke.Windows.Core.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.Geolocator.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.Geolocator.Abstractions.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/SkiaSharp.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Validation.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/WebP.Touch.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Auth.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/WyCo.iOS.csprojResolveAssemblyReference.cache
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/WyCo.iOS.csproj.WyCo.iOS.exe.config
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/WyCo.iOS.csproj.CoreCompileInputs.cache
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/WyCo.iOS.exe
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/WyCo.iOS.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/actool/_PartialAppManifest.items
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/Icon-60@3x.png
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/Icon-Small-40@3x.png
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/Icon-Small@3x.png
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/Bloqueado.png
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/cruz.png
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/DefMayor.png
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/DefMenor.png
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/proximamente.png
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/RestauranteWyCoencabezado.png
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/Ubicacion.png
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/flecha.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/WyCo.iOS.exe.config
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/WyCo.iOS.exe
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/WyCo.iOS.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/DLToolkit.Forms.Controls.FlowListView.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.Touch.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Platform.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Forms.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Platform.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Firebase.Analytics.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Firebase.CloudMessaging.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Firebase.Core.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Firebase.InstanceID.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.Extras.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.Platform.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Microsoft.Practices.ServiceLocation.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/PCLCrypto.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/PInvoke.BCrypt.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/PInvoke.Kernel32.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/PInvoke.NCrypt.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/PInvoke.Windows.Core.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.FirebasePushNotification.Abstractions.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.FirebasePushNotification.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.Geolocator.Abstractions.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.Geolocator.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Rg.Plugins.Popup.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Rg.Plugins.Popup.IOS.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Rg.Plugins.Popup.Platform.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/SkiaSharp.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/SQLite.Net.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/SQLite.Net.Platform.XamarinIOS.Unified.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Validation.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/WebP.Touch.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/WyCo.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Auth.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.CarouselView.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.iOS.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/WyCo.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/WyCo.dll.mdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/DLToolkit.Forms.Controls.FlowListView.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.Touch.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Forms.Touch.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Platform.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Platform.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Forms.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Forms.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Platform.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/FFImageLoading.Svg.Platform.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.Extras.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.Extras.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/GalaSoft.MvvmLight.Platform.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Microsoft.Practices.ServiceLocation.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Microsoft.Practices.ServiceLocation.dll.mdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Microsoft.Practices.ServiceLocation.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/PCLCrypto.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/PInvoke.BCrypt.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/PInvoke.Kernel32.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/PInvoke.NCrypt.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/PInvoke.Windows.Core.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.Connectivity.Abstractions.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.Geolocator.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.Geolocator.Abstractions.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/SkiaSharp.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Validation.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/WebP.Touch.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Auth.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Maps.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.FirebasePushNotification.Abstractions.pdb
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.FirebasePushNotification.Abstractions.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.FirebasePushNotification.xml
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/pt-BR/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/actool/_PartialAppManifest.items
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/Icon-60@3x.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/Icon-Small-40@3x.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/Icon-Small@3x.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/Bloqueado.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/cruz.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/DefMayor.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/DefMenor.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/proximamente.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/RestauranteWyCoencabezado.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/Ubicacion.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/flecha.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/icono58x58.png
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/GoogleService-Info.plist
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/WyCo.iOS.csprojResolveAssemblyReference.cache
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/WyCo.iOS.csproj.WyCo.iOS.exe.config
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/XbdMerge/Firebase.Core.dll.stamp
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/XbdMerge/Firebase.InstanceID.dll.stamp
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/XbdMerge/Firebase.Analytics.dll.stamp
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/XbdMerge/Firebase.CloudMessaging.dll.stamp
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/WyCo.iOS.csproj.CoreCompileInputs.cache
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/WyCo.iOS.exe
+/Users/luissalinero/Desktop/Proyectos xamarin/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/WyCo.iOS.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Firebase.Analytics.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Firebase.CloudMessaging.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Firebase.Core.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Firebase.InstanceID.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.FirebasePushNotification.Abstractions.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.FirebasePushNotification.dll
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.FirebasePushNotification.Abstractions.pdb
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.FirebasePushNotification.Abstractions.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/bin/iPhoneSimulator/Debug/Plugin.FirebasePushNotification.xml
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/icono58x58.png
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone6.1-11.2/optimized/GoogleService-Info.plist
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/XbdMerge/Firebase.Core.dll.stamp
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/XbdMerge/Firebase.InstanceID.dll.stamp
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/XbdMerge/Firebase.Analytics.dll.stamp
+/Users/miguelangel/Desktop/WyCo/WyCo/WyCo.iOS/obj/iPhoneSimulator/Debug/XbdMerge/Firebase.CloudMessaging.dll.stamp
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\WyCo.iOS.exe.config
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\WyCo.iOS.exe
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\WyCo.iOS.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\DLToolkit.Forms.Controls.FlowListView.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Forms.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Forms.Touch.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Platform.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Svg.Forms.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Svg.Platform.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Firebase.Analytics.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Firebase.CloudMessaging.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Firebase.Core.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Firebase.InstanceID.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\GalaSoft.MvvmLight.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\PCLCrypto.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\PInvoke.BCrypt.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\PInvoke.Kernel32.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\PInvoke.NCrypt.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\PInvoke.Windows.Core.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Plugin.FirebasePushNotification.Abstractions.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Plugin.FirebasePushNotification.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Plugin.Geolocator.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.Platform.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\SQLite.Net.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\SQLite.Net.Platform.XamarinIOS.Unified.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Validation.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\WebP.Touch.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\WyCo.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Xamarin.Auth.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.CarouselView.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.iOS.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\WyCo.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\DLToolkit.Forms.Controls.FlowListView.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Forms.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Forms.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Forms.Touch.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Forms.Touch.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Platform.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Platform.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Svg.Forms.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Svg.Forms.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Svg.Platform.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Svg.Platform.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\GalaSoft.MvvmLight.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Microsoft.Practices.ServiceLocation.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\PCLCrypto.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\PInvoke.BCrypt.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\PInvoke.Kernel32.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\PInvoke.NCrypt.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\PInvoke.Windows.Core.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.Abstractions.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Plugin.Geolocator.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Validation.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\WebP.Touch.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Xamarin.Auth.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Plugin.FirebasePushNotification.Abstractions.pdb
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Plugin.FirebasePushNotification.Abstractions.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\Plugin.FirebasePushNotification.xml
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\obj\iPhoneSimulator\Debug\WyCo.iOS.csprojResolveAssemblyReference.cache
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\obj\iPhoneSimulator\Debug\WyCo.iOS.exe.config
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\obj\iPhoneSimulator\Debug\XbdMerge\Firebase.Core.dll.stamp
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\obj\iPhoneSimulator\Debug\XbdMerge\Firebase.InstanceID.dll.stamp
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\obj\iPhoneSimulator\Debug\XbdMerge\Firebase.Analytics.dll.stamp
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\obj\iPhoneSimulator\Debug\XbdMerge\Firebase.CloudMessaging.dll.stamp
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\obj\iPhoneSimulator\Debug\WyCo.iOS.csproj.CoreCompileInputs.cache
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\obj\iPhoneSimulator\Debug\WyCo.iOS.exe
+C:\Users\MiguelAngel\source\repos\WyCo\WyCo\WyCo.iOS\obj\iPhoneSimulator\Debug\WyCo.iOS.pdb

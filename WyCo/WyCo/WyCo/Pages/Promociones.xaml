@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BindingContext="{Binding Main, Source={StaticResource Locator}}"
+             x:Class="WyCo.Pages.Promociones"
+             xmlns:controls="clr-namespace:DLToolkit.Forms.Controls;assembly=DLToolkit.Forms.Controls.FlowListView">
+    <ContentPage.Content>
+       <StackLayout>
+            <AbsoluteLayout>
+                <Image Source="http://tools.agorafranquicias.com/APP/Images/Encabezado/EncabezadoPromociones.png" HeightRequest="70"/>
+                <StackLayout Padding="13,13,0,0">
+                    <Image x:Name="atras" Source="flecha.png" HeightRequest="35" WidthRequest="35"/>
+                </StackLayout>
+            </AbsoluteLayout>
+            <controls:FlowListView x:Name="myList" 
+                                   SeparatorVisibility="None" 
+                                   HasUnevenRows="True"
+                                   FlowColumnCount="2"
+                                   FlowColumnMinWidth="100"
+                                   FlowItemTapped="FlowListView_OnFlowItemTapped">
+                <controls:FlowListView.FlowColumnTemplate>
+                    <DataTemplate>
+                        <Grid Padding="3">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*" />
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <Image HeightRequest="200" Aspect="AspectFill" Source="{Binding URL}" Grid.Row="0" Grid.Column="0"/>
+                            <Image HeightRequest="200" Source="{Binding imagenBloqueada}" Opacity=".4" Grid.Row="0" Grid.Column="0"/>
+                        </Grid>
+                    </DataTemplate>
+                </controls:FlowListView.FlowColumnTemplate>
+            </controls:FlowListView>
+            <Image x:Name="Registrate" VerticalOptions="EndAndExpand"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

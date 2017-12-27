@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WyCo.Pages.Datos">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image x:Name="atras" Source="flecha.png" HorizontalOptions="StartAndExpand" HeightRequest="35" WidthRequest="35" Margin="0,0,10,0"/>
+            <StackLayout x:Name="MainStackLayout"
+                   Padding="8,30">
+                <StackLayout Orientation="Horizontal"
+                     Padding="0,20,0,50">
+                    <Image  x:Name="imagenUser" HeightRequest="100" WidthRequest="100"/>
+                    <StackLayout Orientation="Vertical">
+                        <Label  x:Name="nombreuser" FontSize="20" TextColor="Black"/>
+                    </StackLayout>
+                </StackLayout>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

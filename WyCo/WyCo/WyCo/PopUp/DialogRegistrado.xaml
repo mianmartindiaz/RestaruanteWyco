@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+             x:Class="WyCo.PopUp.DialogRegistrado">
+    <ContentPage.Content>
+        <AbsoluteLayout x:Name="Fondo" VerticalOptions="Center" HorizontalOptions="Center" HeightRequest="150" WidthRequest="320">
+            <Label Text="Lo sentimos, no estás Registrado" x:Name="label" HorizontalOptions="Center" FontSize="Medium" AbsoluteLayout.LayoutBounds="30,25,180,45"/>
+            <Button x:Name="Registrar" Text="Registrarme"   Clicked="Registrar_Clicked" FontAttributes="Bold"  AbsoluteLayout.LayoutBounds="30,90,120,40"/>
+            <Button x:Name="Cancelar" Text="No, gracias"    Clicked="Cancelar_Clicked" FontAttributes="Bold"  AbsoluteLayout.LayoutBounds="160,90,120,40"/>
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</pages:PopupPage>

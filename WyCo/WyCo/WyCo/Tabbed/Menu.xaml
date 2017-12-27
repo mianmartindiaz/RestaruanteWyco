@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WyCo.Tabbed.Menu"
+             xmlns:local="clr-namespace:WyCo.Tabbed;assembly=WyCo" BackgroundColor="#DCC4A4" BarTextColor="Black">
+    
+        <local:Carta />
+        <local:Domicilio />
+    
+        
+</TabbedPage>
